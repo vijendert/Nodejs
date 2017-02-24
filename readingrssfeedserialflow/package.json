@@ -1,0 +1,16 @@
+{
+  "name": "readingrssfeedserialflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rssread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+  "request" : "latest",
+  "htmlparser":"latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
